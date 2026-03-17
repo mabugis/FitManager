@@ -6,7 +6,7 @@
 
 **izmjena: Ahmed**
 **izmjena: Bakir**
-
+**izmjena: Adnan**
 ---
 
 ## 1. Osnovne informacije o sistemu
