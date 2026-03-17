@@ -4,6 +4,8 @@
 **Elektrotehnicki Fakultet**
 **Objektno Orijentisana Analiza i Dizajn**
 
+**izmjena: Ahmed**
+
 ---
 
 ## 1. Osnovne informacije o sistemu
