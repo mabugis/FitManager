@@ -5,6 +5,7 @@
 **Objektno Orijentisana Analiza i Dizajn**
 
 **izmjena: Ahmed**
+**izmjena: Bakir**
 
 ---
 
